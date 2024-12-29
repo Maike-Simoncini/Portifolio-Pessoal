@@ -1,6 +1,6 @@
 # Portifólio Pessoal - Trabalho ADS
 
-<a><img width="70%" src="img/portifolio.png"></a>
+<a><img width="100%" src="img/portifolio.png"></a>
 
 **Descrição:**
 
